@@ -1,0 +1,19 @@
+# 避免上傳編譯產生的檔案
+*.o
+*.out
+*.pyc
+*.class
+
+# macOS 系統檔案
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 編輯器暫存檔案
+*~
+*#
+
+# 資料夾
+node_modules/
+dist/
+build/
